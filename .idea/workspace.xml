@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30e14675-c288-4409-9a4c-aaacb4eed24d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1alMq0BY401fQ8f8fFKRLw39Vye" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\fussball" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.competition_to_database">
+    <configuration name="competition_to_database" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="fussball" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\PycharmProjects\fussball\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/competition_to_database.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generatebaselinks" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="fussball" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\PycharmProjects\fussball\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_matches" type="PythonConfigurationType" factoryName="Python">
+      <module name="fussball" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\PycharmProjects\fussball\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_matches.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.competition_to_database" />
+      <item itemvalue="Python.generatebaselinks" />
+      <item itemvalue="Python.get_matches" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30e14675-c288-4409-9a4c-aaacb4eed24d" name="Default Changelist" comment="" />
+      <created>1587305913780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587305913780</updated>
+      <workItem from="1587305926577" duration="1704000" />
+      <workItem from="1587399644137" duration="41743000" />
+      <workItem from="1587889598409" duration="41297000" />
+      <workItem from="1588408267666" duration="10979000" />
+      <workItem from="1588713142478" duration="1218000" />
+      <workItem from="1588924787529" duration="23805000" />
+      <workItem from="1589104095866" duration="27187000" />
+      <workItem from="1589536466634" duration="9968000" />
+      <workItem from="1589649854798" duration="2748000" />
+      <workItem from="1590254947003" duration="1124000" />
+      <workItem from="1590741206261" duration="721000" />
+      <workItem from="1590927557419" duration="1198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589049626892">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589049626892" />
+    <state x="223" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1587890091450" />
+    <state x="2651" y="336" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587550510502">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2651" y="336" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1587550510502" />
+    <state x="505" y="174" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589649953105">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="505" y="174" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589105068036" />
+    <state x="505" y="174" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1589649953105" />
+    <state width="1534" height="441" key="DebuggerActiveHint" timestamp="1589650153134">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1534" height="440" key="DebuggerActiveHint/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1587542824939" />
+    <state width="1918" height="554" key="DebuggerActiveHint/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1587545711697" />
+    <state width="1534" height="441" key="DebuggerActiveHint/0.0.1536.834@0.0.1536.834" timestamp="1589650153134" />
+    <state x="548" y="176" key="FileChooserDialogImpl" timestamp="1589049623389">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="176" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589049623389" />
+    <state x="548" y="176" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1588713160294" />
+    <state width="1493" height="247" key="GridCell.Tab.0.bottom" timestamp="1589922152935">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1877" height="329" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589620882029" />
+    <state width="1877" height="218" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1589581072132" />
+    <state width="1493" height="247" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589922152935" />
+    <state width="1493" height="247" key="GridCell.Tab.0.center" timestamp="1589922152935">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1877" height="329" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589620882014" />
+    <state width="1877" height="218" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1589581072132" />
+    <state width="1493" height="247" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589922152935" />
+    <state width="1493" height="247" key="GridCell.Tab.0.left" timestamp="1589922152934">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1877" height="329" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589620882014" />
+    <state width="1877" height="218" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1589581072132" />
+    <state width="1493" height="247" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589922152934" />
+    <state width="1493" height="247" key="GridCell.Tab.0.right" timestamp="1589922152935">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1877" height="329" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589620882029" />
+    <state width="1877" height="218" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1589581072132" />
+    <state width="1493" height="247" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589922152935" />
+    <state width="1493" height="247" key="GridCell.Tab.1.bottom" timestamp="1589922152937">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1877" height="329" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589620882045" />
+    <state width="1877" height="329" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1589577838016" />
+    <state width="1493" height="247" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589922152937" />
+    <state width="1493" height="247" key="GridCell.Tab.1.center" timestamp="1589922152937">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1877" height="329" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589620882045" />
+    <state width="1877" height="329" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1589577838016" />
+    <state width="1493" height="247" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1589922152937" />
+    <state width="1493" height="247" key="GridCell.Tab.1.left" timestamp="1589922152936">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1877" height="329" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589620882029" />
+    <state width="1877" height="329" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1589577838016" />
+    <state width="1493" height="247" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1589922152936" />
+    <state width="1493" height="247" key="GridCell.Tab.1.right" timestamp="1589922152937">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1877" height="329" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589620882045" />
+    <state width="1877" height="329" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1589577838016" />
+    <state width="1493" height="247" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1589922152937" />
+    <state width="775" height="424" key="XDebugger.FullValuePopup" timestamp="1587945734772">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="775" height="424" key="XDebugger.FullValuePopup/0.0.1536.834@0.0.1536.834" timestamp="1587945734772" />
+    <state x="473" y="173" width="713" height="546" key="find.popup" timestamp="1589099477860">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="473" y="173" width="713" height="546" key="find.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589099477860" />
+    <state x="473" y="173" width="713" height="546" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1589094671339" />
+    <state x="814" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1589315214933">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="814" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1589315214933" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/get_matches.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/get_matches.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/get_matches.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/get_matches.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/get_matches.py</url>
+          <line>138</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/get_matches.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/get_matches.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/competition_to_database.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/fussball$generatebaselinks.coverage" NAME="generatebaselinks Coverage Results" MODIFIED="1589578569276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fussball$get_matches.coverage" NAME="get_matches Coverage Results" MODIFIED="1588420350265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fussball$competition_to_database.coverage" NAME="competition_to_database Coverage Results" MODIFIED="1589650198944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

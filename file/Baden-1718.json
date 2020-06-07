@@ -1,0 +1,1334 @@
+{
+  "area": "_32",
+  "area_name": "Baden",
+  "session_id": "_228",
+  "session": "228",
+  "competitions": [
+    {
+      "id": "_145",
+      "tier": 6,
+      "name": "Verbandsliga",
+      "links": [
+        {
+          "id": "027FK9M6NC000009VS5489B4VVV48306-G",
+          "name": "bfv-Verbandsliga",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        }
+      ]
+    },
+    {
+      "id": "_146",
+      "tier": 7,
+      "name": "Landesliga",
+      "links": [
+        {
+          "id": "027FKC0DM800000GVS5489B4VVV48306-G",
+          "name": "bfv-Landesliga Mittelbaden",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "027FKC0D9800000FVS5489B4VVV48306-G",
+          "name": "bfv-Landesliga Odenwald",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "027FKC0DH800000GVS5489B4VVV48306-G",
+          "name": "bfv-Landesliga Rhein-Neckar",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        }
+      ]
+    },
+    {
+      "id": "_150",
+      "tier": 8,
+      "name": "Kreisliga",
+      "links": [
+        {
+          "id": "027CS85V8C00000JVS5489B3VUOI54T7-G",
+          "name": "bfv-Kreisliga Buchen",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027K89RI4400000EVS5489B4VU9HDBC9-G",
+          "name": "Kreisliga Bruchsal",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027BI2OAAO00000LVS5489B4VTN21JC6-G",
+          "name": "Kreisliga Karlsruhe",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0277IFAUT800000HVS5489B4VTN21JC6-G",
+          "name": "Kreisliga Sinsheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027K41ICA0000000VS5489B3VS3GHJJU-G",
+          "name": "Kreisliga Heidelberg",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027K8UTULC000004VS5489B3VS3GHJJU-G",
+          "name": "Kreisliga TBB 2019/2020",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027M4BHN80000004VS5489B3VVRDDT7H-G",
+          "name": "bfv-Kreisliga Pforzheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027HK5IVLG00000JVS5489B3VVQN7UE9-G",
+          "name": "Kreisliga Mannheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027M7E5VM0000004VS5489B4VTN1DS1I-G",
+          "name": "Kreisliga Mosbach",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        }
+      ]
+    },
+    {
+      "id": "_153",
+      "tier": 9,
+      "name": "Kreisklasse A",
+      "links": [
+        {
+          "id": "027CS8JHTS00000IVS5489B3VUOI54T7-G",
+          "name": "bfv-Kreisklasse A Buchen",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027K8BU908000000VS5489B4VU9HDBC9-G",
+          "name": "Kreisklasse A Bruchsal",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027BI2R3V400000JVS5489B4VTN21JC6-G",
+          "name": "Kreisklasse A1 Karlsruhe",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027BI2R47000000NVS5489B4VTN21JC6-G",
+          "name": "Kreisklasse A2 Karlsruhe",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0277A0Q434000004VS5489B3VVMRAMG3-G",
+          "name": "bfv-Kreisklasse  A Sinsheim Reserve",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0277A0Q3E0000009VS5489B3VVMRAMG3-G",
+          "name": "bfv-Kreisklasse A Sinsheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027K4BG6MS000000VS5489B3VS3GHJJU-G",
+          "name": "Kreisklasse A Heidelberg",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027K8OM0EG000004VS5489B3VS3GHJJU-G",
+          "name": "Kreisklasse A TBB 2019/2020",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027M4BTPSK000006VS5489B3VVRDDT7H-G",
+          "name": "bfv-Kreisklasse A1 Pforzheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027M4BTQB0000007VS5489B3VVRDDT7H-G",
+          "name": "bfv-Kreisklasse A2 Pforzheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027CI0U4EC00000GVS5489B4VTN21JC6-G",
+          "name": "Kreisklasse A",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027HSFR76000000HVS5489B4VU9HDBC9-G",
+          "name": "Kreisklasse A1 Mannheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027HSFR7Q800000EVS5489B4VU9HDBC9-G",
+          "name": "Kreisklasse A2 Mannheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        }
+      ]
+    },
+    {
+      "id": "_144",
+      "tier": "144",
+      "name": "Verbands-Pokal",
+      "links": [
+        {
+          "id": "027HT3336C000000VS5489B3VVQN7UE9-C",
+          "name": "bfv-Rothaus-Pokal 2019-20",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        }
+      ]
+    },
+    {
+      "id": "_149",
+      "tier": "149",
+      "name": "Kreispokal",
+      "links": [
+        {
+          "id": "027F4VUO1O000000VS5489B3VUOI54T7-C",
+          "name": "bfv-Rothaus-Pokal Kreis Buchen",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027HSTVRQC000000VS5489B4VU9HDBC9-C",
+          "name": "Rothaus Pokal Kreis Bruchsal 2019-2020",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027FDJA1JG000000VS5489B4VTN21JC6-C",
+          "name": "Rothaus Pokal im Fu\u00dfballkreis Karlsruhe",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027NNO1RJC000000VS5489B3VVRDDT7H-C",
+          "name": "Rothaus-Kreispokal 2019-2020",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "028DMS31PC000000VS5489B3VT62FKQD-C",
+          "name": "Qualifikation bfv Rothaus Pokal Baden",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027II4462C000000VS5489B3VS3GHJJU-C",
+          "name": "bfv-ROTHAUS-Kreispokal Heidelberg",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027LQ3R5N0000000VS5489B3VVRDDT7H-C",
+          "name": "Rothaus Kreispokal TBB",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "028MLF0HVK000000VS5489B3VVOD4087-C",
+          "name": "Qualifikation zum Verbandspokal",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027M492A7G000000VS5489B3VVRDDT7H-C",
+          "name": "bfv-Rothaus Kreispokal Fu\u00dfballkreis Pforzheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027LG5NLRC000000VS5489B4VTN1DS1I-C",
+          "name": "Rothaus Kreispokal",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "028MU4LC2O000000VS5489B3VSH3219M-C",
+          "name": "bfv-ROTHAUS-Kreispokal - Mannheim Qualifikation KA",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027GJ984Q0000000VS5489B3VVQN7UE9-C",
+          "name": "bfv-ROTHAUS-kreispokal - Mannheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        }
+      ]
+    },
+    {
+      "id": "_781",
+      "tier": "781",
+      "name": "Landesfreundschaftsspiele",
+      "links": [
+        {
+          "id": "027DCOLUOO000000VS5489B4VTN21JC6-D",
+          "name": "FS/H/L-FS/BADFV/1",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        }
+      ]
+    },
+    {
+      "id": "_782",
+      "tier": "782",
+      "name": "Kreisfreundschaftsspiele",
+      "links": [
+        {
+          "id": "027HT8517K000000VS5489B4VU9HDBC9-D",
+          "name": "FS/H/K-FS/BCH/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027GU5FQU8000000VS5489B4VU9HDBC9-D",
+          "name": "FS/H/K-FS/BR/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027CGCO6LG000000VS5489B4VTN21JC6-D",
+          "name": "FS/H/K-FS/KA/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027EA8DNUS000000VS5489B3VUOI54T7-D",
+          "name": "FS/H/K-FS/SNH/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027I8NHHRO000000VS5489B4VU9HDBC9-D",
+          "name": "FS/H/K-FS/HD/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027F454VRC000000VS5489B4VTN21JC6-D",
+          "name": "FS/H/K-FS/TBB/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027FA6I50K000000VS5489B3VUOI54T7-D",
+          "name": "FS/H/K-FS/PF/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027DP01HGC000000VS5489B4VTN21JC6-D",
+          "name": "FS/H/K-FS/MA/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027HUB6QTO000000VS5489B4VU9HDBC9-D",
+          "name": "FS/H/K-FS/MOS/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        }
+      ]
+    },
+    {
+      "id": "_145",
+      "tier": 6,
+      "name": "Verbandsliga",
+      "links": [
+        {
+          "id": "023QQDQ23O00000JVS54898EVV9PO6D7-G",
+          "name": "bfv-Verbandsliga",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "027BCSG8UC000007VS5489B3VUOI54T7-G",
+          "name": "Relegation VL/LL: LL ODW - LL MB",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "027BCSG8J8000007VS5489B3VUOI54T7-G",
+          "name": "Relegation VL/LL: VL - LL RN",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "027DNB0QG4000000VS5489B3VUOI54T7-G",
+          "name": "Relegation VL/LL: Finale",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        }
+      ]
+    },
+    {
+      "id": "_146",
+      "tier": 7,
+      "name": "Landesliga",
+      "links": [
+        {
+          "id": "023QQED1UC00000GVS54898EVV9PO6D7-G",
+          "name": "bfv-Landesliga Mittelbaden",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "023QQED1F000000FVS54898EVV9PO6D7-G",
+          "name": "bfv-Landesliga Odenwald",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "023QQED1NO00000HVS54898EVV9PO6D7-G",
+          "name": "bfv-Landesliga Rhein-Neckar",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "027BCUT41O00000BVS5489B3VUOI54T7-G",
+          "name": "Relegation LL MB: KL BR - KL PF",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "027BCUT3RC00000BVS5489B3VUOI54T7-G",
+          "name": "Relegation LL MB: KL KA - LL MB",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "027BCUT25G00000AVS5489B3VUOI54T7-G",
+          "name": "Relegation LL ODW: KL BCH - KL TBB",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "027BCUT2T0000000VS5489B3VUOI54T7-G",
+          "name": "Relegation LL ODW: KL MOS - LL ODW",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "027BCUT3C8000001VS5489B3VUOI54T7-G",
+          "name": "Relegation LL RN: KL SNH - KL MA",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "027BCUT3KG000000VS5489B3VUOI54T7-G",
+          "name": "Relegation LL RN: LL RN - KL HD",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "027DNCP824000007VS5489B3VUOI54T7-G",
+          "name": "Relegation LL MB: Finale",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "027DNCP8GG000007VS5489B3VUOI54T7-G",
+          "name": "Relegation LL ODW: Finale",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "027DNCP8A8000007VS5489B3VUOI54T7-G",
+          "name": "Relegation LL RN: Finale",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        }
+      ]
+    },
+    {
+      "id": "_150",
+      "tier": 8,
+      "name": "Kreisliga",
+      "links": [
+        {
+          "id": "023PFQLRCC00000MVS54898EVV9PO6D7-G",
+          "name": "bfv-Kreisliga Buchen",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0278M2SD10000004VS5489B3VUOI54T7-G",
+          "name": "Relegation KL - KKA",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "02419JS69S00000FVS54898DVSE4SAI6-G",
+          "name": "Kreisliga Bruchsal",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023RQJ4LU000000MVS54898DVST4NHAM-G",
+          "name": "Kreisliga Karlsruhe",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023MVI57I800000HVS54898EVV49UB8O-G",
+          "name": "Kreisliga Sinsheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0279G39VSS000004VS5489B3VUOI54T7-G",
+          "name": "Relegation KL - KK A",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023S5451HC00000JVS54898EVS65717F-G",
+          "name": "Kreisliga Heidelberg",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023U32KAV8000004VS54898EVUPQIL85-G",
+          "name": "Kreisliga TBB 2018/2019",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027B6VP1R4000004VS5489B4VTN21JC6-G",
+          "name": "Relegation",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0240BT9IQC000003VS54898DVSE4SAI6-G",
+          "name": "Kreisliga Pforzheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023SPR0SOO00000JVS54898EVS65717F-G",
+          "name": "Kreisliga Mannheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027BPHRVGO000003VS5489B3VUOI54T7-G",
+          "name": "Entscheidungsspiel Aufstieg in KL",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023RNOBBH4000000VS54898DVST4NHAM-G",
+          "name": "Kreisliga Mosbach",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "02793UDC7C000005VS5489B4VTN21JC6-G",
+          "name": "Relegation Kreisliga/Kreisklasse A",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        }
+      ]
+    },
+    {
+      "id": "_153",
+      "tier": 9,
+      "name": "Kreisklasse A",
+      "links": [
+        {
+          "id": "023PFQBVEC00000LVS54898EVV9PO6D7-G",
+          "name": "bfv-Kreisklasse A Buchen",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0278M0P0OC000005VS5489B3VUOI54T7-G",
+          "name": "Relegation KKA - KKB",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0241AQI18800000DVS54898EVUVF00VA-G",
+          "name": "Kreisklasse A Bruchsal",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023MVI1EGG00000FVS54898EVV49UB8O-G",
+          "name": "Kreisklasse  A Reserve",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023MVI1E4O00000FVS54898EVV49UB8O-G",
+          "name": "Kreisklasse A Sinsheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0279G0RPQC000004VS5489B3VUOI54T7-G",
+          "name": "Relegation KK A - KK B",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023RQJSVC4000004VS54898DVST4NHAM-G",
+          "name": "Kreisklasse A1 Karlsruhe",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023RQJUP5G000004VS54898DVST4NHAM-G",
+          "name": "Kreisklasse A2 Karlsruhe",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0240LGOUDO00000FVS54898EVUVF00VA-G",
+          "name": "Kreisklasse A Heidelberg",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023U1CVBF4000004VS54898DVVG1IBJM-G",
+          "name": "Kreisklasse A TBB 2018/2019",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027B6T4CU4000004VS5489B4VTN21JC6-G",
+          "name": "Meisterschaft",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0240BTBJRC000004VS54898DVSE4SAI6-G",
+          "name": "Kreisklasse A1 Pforzheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0240BTCG38000004VS54898DVSE4SAI6-G",
+          "name": "Kreisklasse A2 Pforzheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027B7A8DJO000006VS5489B4VTN21JC6-G",
+          "name": "Abstieg aus Kreisklasse A",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027B7A8DE4000004VS5489B4VTN21JC6-G",
+          "name": "Aufstieg in Kreisliga",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023Q46TBTK00000GVS54898DVTQGP6QF-G",
+          "name": "Kreisklasse A Mosbach",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0279950H0C000005VS5489B4VTN21JC6-G",
+          "name": "Relelgation Kreisklasse A&Sieger B1/B2",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023SQ0JKLS000000VS54898EVS65717F-G",
+          "name": "Kreisklasse A1 Mannheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023SQ0JL7800000HVS54898EVS65717F-G",
+          "name": "Kreisklasse A2 Mannheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027BQ5KQOC000004VS5489B4VTN21JC6-G",
+          "name": "Aufstiegsrunde",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "027BQ5AGUS000004VS5489B4VTN21JC6-G",
+          "name": "Entscheidungsspiel",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        }
+      ]
+    },
+    {
+      "id": "_144",
+      "tier": "144",
+      "name": "Verbands-Pokal",
+      "links": [
+        {
+          "id": "023T11VF5C000000VS54898EVS65717F-C",
+          "name": "bfv-Rothaus-Pokal 2018-19",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        }
+      ]
+    },
+    {
+      "id": "_149",
+      "tier": "149",
+      "name": "Kreispokal",
+      "links": [
+        {
+          "id": "023QUIAD0G000000VS54898DVTQGP6QF-C",
+          "name": "bfv-Rothaus-Pokal Kreis Buchen",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023QIVBK4G000000VS54898DVTQGP6QF-C",
+          "name": "Rothaus Pokal Kreis Bruchsal 2018 bis 2019",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0242I8TGVG000000VS54898DVSE4SAI6-C",
+          "name": "Kreispokal 2018-2019",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023PJOVQ3O000000VS54898EVV9PO6D7-C",
+          "name": "Rothaus Pokal im Fu\u00dfballkreis Karlsruhe",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023VPEH8K4000000VS54898DVVG1IBJM-C",
+          "name": "bfv-ROTHAUS-Kreispokal Heidelberg",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023RN4SIPC000000VS54898DVST4NHAM-C",
+          "name": "Rothaus Kreispokal Tauberbischofsheim 2018/19",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "024RUT9R4S000000VS54898DVV53N3BR-C",
+          "name": "Qualifikation zum Verbandspokal",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0241015HL0000000VS54898DVSE4SAI6-C",
+          "name": "Rothaus Kreispokal Fu\u00dfballkreis Pforzheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0240N18PN8000000VS54898DVSE4SAI6-C",
+          "name": "Rothaus Kreispokal Mosbach",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0240SSIF20000000VS54898EVUVF00VA-C",
+          "name": "bfv-ROTHAUS-Kreispokal - Mannheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0257726KIS000000VS54898DVV41OBLV-C",
+          "name": "bfv-ROTHAUS-Kreispokal - Mannheim Qualifikation KA",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        }
+      ]
+    },
+    {
+      "id": "_781",
+      "tier": "781",
+      "name": "Landesfreundschaftsspiele",
+      "links": [
+        {
+          "id": "023Q02791G000000VS54898EVV9PO6D7-D",
+          "name": "FS/H/L-FS/BADFV/1",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        }
+      ]
+    },
+    {
+      "id": "_782",
+      "tier": "782",
+      "name": "Kreisfreundschaftsspiele",
+      "links": [
+        {
+          "id": "023PHG2IDC000000VS54898EVV9PO6D7-D",
+          "name": "FS/H/K-FS/BCH/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023QITM8S4000000VS54898DVTQGP6QF-D",
+          "name": "FS/H/K-FS/BR/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023MIBAE2C000000VS54898EVV49UB8O-D",
+          "name": "FS/H/K-FS/KA/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023PE3QNHO000000VS54898DVTQGP6QF-D",
+          "name": "FS/H/K-FS/SNH/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023VB51OH0000000VS54898DVVG1IBJM-D",
+          "name": "FS/H/K-FS/HD/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023R6G19AK000000VS54898DVTVU1VI3-D",
+          "name": "FS/H/K-FS/TBB/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023O8GVM8G000000VS54898EVV49UB8O-D",
+          "name": "FS/H/K-FS/PF/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023Q02RMB8000000VS54898EVV9PO6D7-D",
+          "name": "FS/H/K-FS/MA/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023R2N9OGK000000VS54898DVTQGP6QF-D",
+          "name": "FS/H/K-FS/MOS/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        }
+      ]
+    },
+    {
+      "id": "_145",
+      "tier": 6,
+      "name": "Verbandsliga",
+      "links": [
+        {
+          "id": "0205CVMGUS000007VS54898DVUL01S6C-G",
+          "name": "bfv-Verbandsliga",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "023L1M2IFS000000VS54898EVV49UB8O-G",
+          "name": "Relegation VL/LL: LL ODW - LL MB",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "023L1M2IA8000006VS54898EVV49UB8O-G",
+          "name": "Relegation VL/LL: VL - LL RN",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "023O6CTT3K000004VS54898EVV49UB8O-G",
+          "name": "Relegation VL/LL: Finale",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        }
+      ]
+    },
+    {
+      "id": "_146",
+      "tier": 7,
+      "name": "Landesliga",
+      "links": [
+        {
+          "id": "0205MQO6MK000000VS54898DVUL01S6C-G",
+          "name": "bfv-Landesliga Mittelbaden",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "0205MRTLGS000008VS54898DVUL01S6C-G",
+          "name": "bfv-Landesliga Odenwald",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "0205MRVN88000007VS54898DVUL01S6C-G",
+          "name": "bfv-Landesliga Rhein-Neckar",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "023L1893UK00000AVS54898EVV49UB8O-G",
+          "name": "Relegation LL MB: KL BR - KL PF",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "023L1893PO000009VS54898EVV49UB8O-G",
+          "name": "Relegation LL MB: KL KA - LL MB",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "023L1892RC000001VS54898EVV49UB8O-G",
+          "name": "Relegation LL ODW: KL BCH - KL MOS",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "023L1893A400000AVS54898EVV49UB8O-G",
+          "name": "Relegation LL ODW: KL TBB - LL ODW",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "023L1893F000000AVS54898EVV49UB8O-G",
+          "name": "Relegation LL RN: KL MA - KL SNH",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "023L1893JO00000AVS54898EVV49UB8O-G",
+          "name": "Relegation LL RN: LL RN - KL HD",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "023O6DGP9K000006VS54898EVV49UB8O-G",
+          "name": "Relegation LL MB: Finale",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "023O6DGPMS000006VS54898EVV49UB8O-G",
+          "name": "Relegation LL ODW: Finale",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        },
+        {
+          "id": "023O6DGPIC000001VS54898EVV49UB8O-G",
+          "name": "Relegation LL RN: Finale",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        }
+      ]
+    },
+    {
+      "id": "_150",
+      "tier": 8,
+      "name": "Kreisliga",
+      "links": [
+        {
+          "id": "02023URB3O000002VS54898EVSIMIKOR-G",
+          "name": "Kreisliga Buchen",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "02080LV1BG00000AVS54898EVSHNKASV-G",
+          "name": "Kreisliga Bruchsal",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "020246QR2S000000VS54898EVSIMIKOR-G",
+          "name": "Kreisliga Karlsruhe",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0205IH44BO000004VS54898EVSIMIKOR-G",
+          "name": "Kreisliga Sinsheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023LK7DVA0000005VS54898DVV1BQL8U-G",
+          "name": "Relegation KL - KK A",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "020DBUFGAC000004VS54898EVVII0TR2-G",
+          "name": "Kreisliga Heidelberg",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0207JDBTB4000001VS54898DVV6E7UIQ-G",
+          "name": "Kreisliga  Tauberbischofsheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023PS0AU04000003VS54898EVV9PO6D7-G",
+          "name": "Relegation",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0202HMVFCG000003VS54898DVUL01S6C-G",
+          "name": "Kreisliga Pforzheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0204CHLLHS00000BVS54898EVSIMIKOR-G",
+          "name": "Kreisliga Mannheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0202EV8EQC000003VS54898EVSIMIKOR-G",
+          "name": "Kreisliga Mosbach",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023M3UPHRK000004VS54898DVV1BQL8U-G",
+          "name": "Relegation Kreisliga/Kreisklasse A",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        }
+      ]
+    },
+    {
+      "id": "_153",
+      "tier": 9,
+      "name": "Kreisklasse A",
+      "links": [
+        {
+          "id": "02023V4KDS000000VS54898EVSIMIKOR-G",
+          "name": "Kreisklasse A Buchen",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023L5QF0V0000006VS54898EVV49UB8O-G",
+          "name": "Relegation KKA - KKB",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "02080MRFSC000006VS54898EVSHNKASV-G",
+          "name": "Kreisklasse A Bruchsal",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0205IIP3B8000007VS54898EVSIMIKOR-G",
+          "name": "Kreisklasse  A Reserve",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0205IIP2TS000002VS54898EVSIMIKOR-G",
+          "name": "Kreisklasse A Sinsheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023LK540G4000005VS54898DVV1BQL8U-G",
+          "name": "Relegation KK A - KK B",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0204E1PSKG000000VS54898EVSIMIKOR-G",
+          "name": "Kreisklasse A1 Karlsruhe",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0204E2CF9K000000VS54898EVSIMIKOR-G",
+          "name": "Kreisklasse A2 Karlsruhe",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "020DBRU1Q0000002VS54898EVVII0TR2-G",
+          "name": "Kreisklasse A Heidelberg",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0207J9S9N4000000VS54898DVV6E7UIQ-G",
+          "name": "Kreisklasse A TBB 17/18",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023JFJI148000001VS54898EVSLR2L79-G",
+          "name": "Meisterschaft",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0202HN1CKG000000VS54898DVUL01S6C-G",
+          "name": "Kreisklasse A1 Pforzheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0202HN1D2S000003VS54898DVUL01S6C-G",
+          "name": "Kreisklasse A2 Pforzheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023M867I7G000004VS54898DVV1BQL8U-G",
+          "name": "Abstieg aus Kreisklasse A",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023M85S700000004VS54898DVV1BQL8U-G",
+          "name": "Aufstieg in Kreisliga",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0202EUEAL8000003VS54898EVSIMIKOR-G",
+          "name": "Kreisklasse A Mosbach",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023LP9IHIK000004VS54898DVV1BQL8U-G",
+          "name": "Relelgation Kreisklasse A&Sieger B1/B2",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "02070BGEV000000CVS54898EVTOIL9QR-G",
+          "name": "Kreisklasse A1 Mannheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0207JIOV78000003VS54898EVTOIL9QR-G",
+          "name": "Kreisklasse A2 Mannheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "023MJEC020000005VS54898EVV49UB8O-G",
+          "name": "Entscheidungsspiel",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        }
+      ]
+    },
+    {
+      "id": "_144",
+      "tier": "144",
+      "name": "Verbands-Pokal",
+      "links": [
+        {
+          "id": "0205BFSAB8000000VS54898DVUL01S6C-C",
+          "name": "bfv-Rothaus-Pokal 2017-18",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        }
+      ]
+    },
+    {
+      "id": "_149",
+      "tier": "149",
+      "name": "Kreispokal",
+      "links": [
+        {
+          "id": "02054JTPEC000000VS54898DVUL01S6C-C",
+          "name": "bfv-Rothaus-Pokal Kreis Buchen",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "02040EU8TS000000VS54898DVUL01S6C-C",
+          "name": "Rothaus Pokal Bruchsal",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0204DV47O8000000VS54898EVSIMIKOR-C",
+          "name": "Rothaus-Kreis-Pokal Karlsruhe",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "020EVIQU7O000000VS54898EVVII0TR2-C",
+          "name": "Rothaus-Kreis-Pokal Sinsheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0217GEA3V8000000VS54898DVVLO3960-C",
+          "name": "Qualifikation bfv Rothaus Pokal Baden",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "020AIP16P0000000VS54898DVUVCCN5J-C",
+          "name": "bfv-ROTHAUS-Kreispokal Heidelberg",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "02060UNHUO000000VS54898DVUL01S6C-C",
+          "name": "bfv-Rothaus-Kreispokal Tauberbischofsheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "020QSK1EUK000000VS54898DVSQ435S7-C",
+          "name": "Qualifikation zum Verbandspokal 2017/18",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "020ASQQHG8000000VS54898DVSDVETU6-C",
+          "name": "Rothaus-Kreis-Pokal Pforzheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "020BLTP98S000000VS54898DVSDVETU6-C",
+          "name": "Rothaus Kreispokal Mosbach",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "020704SID8000000VS54898EVTOIL9QR-C",
+          "name": "bfv-Rothaus-Pokal Kreis Mannheim",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0218DL7EPS000000VS54898DVVLO3960-C",
+          "name": "bfv-Rothaus-Pokal Kreis Mannheim  Qualifikation KA",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        }
+      ]
+    },
+    {
+      "id": "_781",
+      "tier": "781",
+      "name": "Landesfreundschaftsspiele",
+      "links": [
+        {
+          "id": "0203DIT2BG000000VS54898DVUL01S6C-D",
+          "name": "FS/H/L-FS/BADFV/1",
+          "state_name": "Baden",
+          "area_name": "Baden"
+        }
+      ]
+    },
+    {
+      "id": "_782",
+      "tier": "782",
+      "name": "Kreisfreundschaftsspiele",
+      "links": [
+        {
+          "id": "0203OKDOR8000000VS54898EVSIMIKOR-D",
+          "name": "FS/H/K-FS/BCH/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "02062T8FDS000000VS54898EVSIMIKOR-D",
+          "name": "FS/H/K-FS/BR/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0201S8DRT8000000VS54898DVUL01S6C-D",
+          "name": "FS/H/K-FS/KA/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0203FU6GG4000000VS54898EVSIMIKOR-D",
+          "name": "FS/H/K-FS/SNH/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0208GQ5EN4000000VS54898DVUVCCN5J-D",
+          "name": "FS/H/K-FS/HD/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0204DV8SVS000000VS54898DVUL01S6C-D",
+          "name": "FS/H/K-FS/TBB/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "02068G001C000000VS54898DVV6E7UIQ-D",
+          "name": "FS/H/K-FS/PF/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0201H838FK000000VS54898EVSIMIKOR-D",
+          "name": "FS/H/K-FS/MA/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        },
+        {
+          "id": "0205VFI500000000VS54898DVUL01S6C-D",
+          "name": "FS/H/K-FS/MOS/1",
+          "state_name": "Baden",
+          "area_name": "Kreis Bruchsal"
+        }
+      ]
+    }
+  ]
+}
